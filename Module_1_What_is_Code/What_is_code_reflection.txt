@@ -1,0 +1,37 @@
+Jenny Moncion Pena
+Module 1: Short Answers
+
+1. In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+The computer will process us pressing the letter “a” in three steps: First, it receives a signal from our keyboard; After receiving the signal this will look in the internal memory of what “a” is supposed to be based on, how the internal memory is supposed to configure the lower case letter. Once the computer finds the letter in its memory, it will create a pixelated shape of the word and the letter will be displayed on the screen in the configured font and size, and that is how the computer process each letter of the keyboard.
+
+2. In your own words, how do computers use input and output to create experiences? (250 words max)
+As explained in the last question, an input is the information sent to the computer, and the output is the information being displayed in the form of texts, images, or videos. It is like using the remote to change channels (output), the input would be what’s happening internally in the tv that will make things work out.
+
+3. Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+They are infinite in the sense that you can create/code everything which can be upgraded constantly. Everything that is electronic is “reproducible nothings”: The light bulb that is connected to an app that I can control, Smart TVs, escalators, that old elevator that keeps breaking down, a GPS location that I send to my cousin every time I went on a date, the free pdf books I got for college, the list goes on and on. Because programs need to be constantly “monitored” and debugged, this creates a cycle of constant updates and upgrades, which will keep increasing the demand of more programmers to keep up as technology progresses. 
+
+4. Explain in your own words how code becomes software. (150 words max)
+For a code to become a software is by compartmentalizing specific, step by step, instructions that the system will be able to run in other devices. Imagine a parent (you as a future software developer) and your 5-year-old child (your device). If you want the child to sit down and teach it how to be a decent human being, you have to speak in a language that your child will understand and that other figures of authority will use universally. Another example is a traffic controller signaling cars when to stop or move. We need to do the right signs to keep things running smoothly. 
+
+5. Explain “algorithms” in your own words. (150 words max)
+Algorithms help quickly process wanted information through the complex load of data in an efficient way. An example I found online to describe a good algorithm vs a bad one is your mother going grocery shopping versus someone going for the first time. Your mom will quickly find the items that she needs faster than a person who will go slower scanning through each aisle to find what they are looking for. What could make an algorithm even more efficient? Your mom has a grocery list and is in a rush, while the lost person (bad algorithm) does not have the list and forgets to purchase some items. 
+
+6. Explain the DRY principle. (100 words max)
+The Don’t Repeat Yourself principle means writing a code that can be used/copied repeatedly. It is a code made to be reused for similar purposes. Coding is lengthy and complicated, the goal is to make it as simple as possible by writing universal commands that can be switched around a bit to serve other functions.
+
+7. In your own words, what is object-oriented programming? (100 words max)
+It works as an archive for different organized sets of code. It’s a lovely way to label information on the type of coding commands and its function. It’s a replication of the classic C program from the late 70’s that ran codes super fast. Nowadays, larger and more complex programming languages use their own versions of C to simplify their big data by having their own organized systems.
+
+8. In your own words explain data and how it relates to code. (100 words max)
+When talking about data in programming, it goes back to the beginning of the article when the author touches on “infinitely reproducible nothings”. Data can be simply defined as a collection of information. This can be a set of different kinds of values containing numbers and information. In the world of coding, it means a lot of things, from personal information, emails, card numbers, group of people from certain demographics, and the scores of those random quizzes on Buzzfeed. Going back to Paul’s comment on how coding creates infinitely reproducible nothings, this can be connected with how we keep creating more and more data and the efforts of keeping it organized and safe. This is an ongoing cycle that will keep programmers earning what they are earning.
+
+9. What is a framework? (150 words max)
+A framework is defined as a conceptual structure used to build a new feature within a code language. Frameworks should not be confused with Software Development Kits (SDK). Frameworks could be considered as a shortcut for dealing with problems with your code, there are many frameworks that have different functions and purposes. Another thing that makes frameworks cool is that it can be optimized and improved. Like any helpful tool, frameworks should be taken as a grain of salt, especially if you are new at programming. It is better to build more experience, and maybe you can build your own framework.
+
+10. What is debugging? (150 words max)
+To debug is to fix your code. A bug is something that shows errors in the code. You debug to make a program run faster. An example that comes to mind is PayPal, since last week I have tried to update my settings and the page keeps crashing, which is quite annoying if your card information changes and you are signed up for a payment plan. Or those apps that keep crashing and make the experience frustrating and complicated. Those errors are probably bugs in the code.
+
+11. Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+The more I read and learn how the virtual world works, the more fascinated it is to me. Maybe I am being a bit unrealistic but I want to see all those sci-fi fantasies become a reality. I remember watching a documentary about former futuristic shows and their tech artifacts and today's reality. It is like seeing your wildest ideas become reality. The world of coding and programming can be much more than social media and apps, it is a way to improve people’s lives, as a way to safety, reconnecting people who live too far from each other, and the liberation of many who experience hardships. All you need to achieve this is the creativity and tenacity to transform your ideas into a reality.
+
+I am by no means a genius, my goals are more oriented to some projects that I keep hanging in the back of my head. I want to find ways to connect people from my country to more opportunities, have more kids learn to code, and create the success that they are being denied on a daily basis. I want to use technology to connect people. I want to use technology to better understand human phenomena. We are in a digital era where automation is becoming more of a daily necessity and I want to be there. Maybe it is the coffee that has gotten me all excited but I cannot wait to understand how all this works and how I can use it to make stuff.
