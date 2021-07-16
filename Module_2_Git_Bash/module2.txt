@@ -1,0 +1,10 @@
+Jenny Moncion Pena
+Module 2: Short Answers
+
+1. What is Git and how is Different than Github?
+
+
+2. Why use the terminal?
+	The terminal is a god-sent set up that helps 
+
+3. Explain 3 benefits of version control in your own words.
