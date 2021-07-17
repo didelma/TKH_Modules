@@ -7,7 +7,7 @@ Git is a program that manages local files on your personal computer. By using a 
 
 
 2. Why use the terminal?
-The terminal is a god-sent setup that helps users find hidden files. Once you become familiar with the basics, you will be able to do basic filing arrangements faster. Another thing you can do is use Git to upload your text/codding work online. You can also run some simple coding commands in Python, JavaScript, etc. 
+The terminal is a god-sent setup that helps users find hidden files. Once you become familiar with the basics, you will be able to do basic filing arrangements faster. Another thing you can do is use Git to upload your text/coding work online. You can also run some simple coding commands in Python, JavaScript, etc. 
 
 
 3. Explain 3 benefits of version control in your own words.
