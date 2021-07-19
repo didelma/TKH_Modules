@@ -16,3 +16,4 @@ Version control is another cool tool used to work on a website project, the adva
 You can have a private clone of your website where you can make changes or add updates privately
 You can have more than one person working on the website
 Version control can track all the changes made by each user, and it can go back to the previous version in case the new upgrade fails to work. This is a lovely feature that helps 
+
