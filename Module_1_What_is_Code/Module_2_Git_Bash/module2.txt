@@ -1,0 +1,18 @@
+07/16/2021
+Jenny Moncion Pena
+Module 2: Short Answers
+
+1. What is Git and how is Different than Github?
+Git is a program that manages local files on your personal computer. By using a bash add-on, you can create a “tree” where you assign branches using a command prompt interface. This is a helpful feature that optimizes file searching once a person becomes acquainted with the system and its shortcuts. What makes Git different than Github is that you can see your team’s work that was done individually online in a repository file. This will give the visual of the code and see everyone’s individual contributions, or lack of.
+
+
+2. Why use the terminal?
+The terminal is a god-sent setup that helps users find hidden files. Once you become familiar with the basics, you will be able to do basic filing arrangements faster. Another thing you can do is use Git to upload your text/coding work online. You can also run some simple coding commands in Python, JavaScript, etc. 
+
+
+3. Explain 3 benefits of version control in your own words.
+Version control is another cool tool used to work on a website project, the advantages of using this are:
+
+You can have a private clone of your website where you can make changes or add updates privately
+You can have more than one person working on the website
+Version control can track all the changes made by each user, and it can go back to the previous version in case the new upgrade fails to work. This is a lovely feature that helps 
